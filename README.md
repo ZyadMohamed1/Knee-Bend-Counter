@@ -11,7 +11,7 @@
 
 ## Images
 
-![knee](/images/knee.png)
+![knee](/Images/knee.png)
 
 
-![KneeBend](/images/Kneebend.png)
+![KneeBend](/Images/Kneebend.png)
